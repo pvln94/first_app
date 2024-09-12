@@ -1,3 +1,5 @@
+# Note: As file size is big, working on to upload it.
+
 # First Flutter App
 Welcome to my first app created using Flutter as the framework and SDK, and Dart as the programming language. This app is designed to run on both Android and iOS platforms.
 
